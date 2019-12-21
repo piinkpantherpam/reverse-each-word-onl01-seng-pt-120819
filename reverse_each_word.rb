@@ -1,2 +1,2 @@
 reverse_each_word(array)
-new_array
+new_array = 
